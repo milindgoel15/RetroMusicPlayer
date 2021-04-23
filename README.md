@@ -6,7 +6,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/h4h13/RetroMusicPlayer/blob/master/LICENSE.txt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/retromusicapp?style=social)](https://twitter.com/retromusicapp)
 
-# ⚠ The app is discontinued, [here's why](https://t.me/retromusiclog/919).
+# This fork is aimed to further maintain Retro Music. Please uninstall old version before installing my builds as it won't install on top of original due to signature changes. 
 
 ## 🆕 Material Design music player for Android music lovers 
 
