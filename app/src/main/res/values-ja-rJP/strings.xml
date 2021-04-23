@@ -278,7 +278,7 @@
 
     <string name="listing_files">リスティングファイル</string>
 
-    <string name="loading_products">商品の読み込み中...</string>
+    <string name="loading_products">商品の読み込み中…</string>
 
     <string name="login">ログイン</string>
 
@@ -474,7 +474,7 @@
     <string name="restored_previous_purchase_please_restart">購入を復元しました。アプリを再起動してフルバージョンをご堪能ください！</string>
     <string name="restored_previous_purchases">購入を復元しました</string>
 
-    <string name="restoring_purchase">購入を復元しています...</string>
+    <string name="restoring_purchase">購入を復元しています…</string>
 
     <string name="retro_music_player">Retro Music Player</string>
     <string name="retro_music_pro">Retro Music Pro</string>
@@ -599,7 +599,7 @@
 
     <string name="update_image">画像を更新</string>
 
-    <string name="updating">更新中...</string>
+    <string name="updating">更新中…</string>
 
     <string name="username">ユーザー名</string>
 
@@ -634,5 +634,4 @@
     <string name="pref_title_home_album_grid_style">アルバムの表示</string>
     <string name="sort_order_num_songs">曲数順（昇順）</string>
     <string name="sort_order_num_songs_desc">曲数順（降順）</string>
-    <string name="image_gradient">傾斜イメージ</string>
 </resources>
